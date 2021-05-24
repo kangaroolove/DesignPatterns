@@ -1,0 +1,21 @@
+add_executable(StrategyPattern
+  main.cpp
+  Duck.cpp
+  Duck.h
+  FlyBehavior.cpp
+  FlyBehavior.h
+  FlyNoWay.cpp
+  FlyNoWay.h
+  FlyWithWings.cpp
+  FlyWithWings.h
+  MallardDuck.cpp
+  MallardDuck.h
+  ModelDuck.cpp
+  ModelDuck.h
+  MuteQuack.cpp
+  MuteQuack.h
+  QuackBehavior.cpp
+  QuackBehavior.h
+  Squeak.cpp
+  Squeak.h
+)
