@@ -1,0 +1,11 @@
+add_executable(ObserverPatternJavaUtil
+main.cpp
+GeneralDisplay.cpp
+GeneralDisplay.h
+Obervable.cpp
+Obervable.h
+Observer.cpp
+Observer.h
+WeatherData.cpp
+WeatherData.h
+)
