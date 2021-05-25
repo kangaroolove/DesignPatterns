@@ -9,3 +9,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(StrategyPattern)
 add_subdirectory(ObserverPatternJavaUtil)
+add_subdirectory(ObserverPattern)
