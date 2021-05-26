@@ -1,0 +1,13 @@
+add_executable(DecoratorPattern
+main.cpp
+Beverage.cpp
+Beverage.h
+CondimentDecorator.cpp
+CondimentDecorator.h
+Espresso.cpp
+Espresso.h
+HouseBlend.cpp
+HouseBlend.h
+Mocha.cpp
+Mocha.h
+)
