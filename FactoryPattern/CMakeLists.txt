@@ -1,0 +1,15 @@
+add_executable(FactoryPattern
+main.cpp
+ChicagoPizzaStore.cpp
+ChicagoPizzaStore.h
+ChicagoStyleCheesePizza.cpp
+ChicagoStyleCheesePizza.h
+NYPizzaStore.cpp
+NYPizzaStore.h
+NYStyleCheesePizza.cpp
+NYStyleCheesePizza.h
+Pizza.cpp
+Pizza.h
+PizzaStore.cpp
+PizzaStore.h
+)
