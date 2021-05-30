@@ -1,0 +1,15 @@
+add_executable(CommandPattern
+main.cpp
+Command.cpp
+Command.h
+Light.cpp
+Light.h
+LightOffCommand.cpp
+LightOffCommand.h
+LightOnCommand.cpp
+LightOnCommand.h
+NoCommand.cpp
+NoCommand.cpp
+RemoteControlWithUndo.cpp
+RemoteControlWithUndo.h
+)
