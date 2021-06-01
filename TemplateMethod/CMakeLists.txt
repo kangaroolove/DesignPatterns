@@ -1,0 +1,9 @@
+add_executable(TemplateMethod
+  main.cpp
+  CaffeineBeverage.cpp
+  CaffeineBeverage.h
+  Coffee.cpp
+  Coffee.h
+  Tea.cpp
+  Tea.h
+)
