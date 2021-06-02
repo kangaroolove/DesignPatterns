@@ -1,0 +1,11 @@
+add_executable(StatePattern
+  main.cpp
+  GumballMachine.cpp
+  GumballMachine.h
+  NoQuarterState.cpp
+  NoQuarterState.h
+  SoldState.cpp
+  SoldState.h
+  State.cpp
+  State.h
+)
